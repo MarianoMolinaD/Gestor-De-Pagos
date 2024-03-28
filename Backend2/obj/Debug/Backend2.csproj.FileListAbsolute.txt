@@ -1,0 +1,6 @@
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\Backend2\bin\Debug\Backend2.dll
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\Backend2\bin\Debug\Backend2.pdb
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\Backend2\obj\Debug\Backend2.csproj.AssemblyReference.cache
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\Backend2\obj\Debug\Backend2.csproj.CoreCompileInputs.cache
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\Backend2\obj\Debug\Backend2.dll
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\Backend2\obj\Debug\Backend2.pdb

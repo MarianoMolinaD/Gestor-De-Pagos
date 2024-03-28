@@ -1,0 +1,35 @@
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto FInal de progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.csproj.AssemblyReference.cache
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto FInal de progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.GestorDePagosfrm.resources
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto FInal de progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.Properties.Resources.resources
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto FInal de progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.csproj.GenerateResource.cache
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto FInal de progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto FInal de progra\SolucionGestorDePagos\FrontEnd\bin\Debug\FrontEnd.exe.config
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto FInal de progra\SolucionGestorDePagos\FrontEnd\bin\Debug\FrontEnd.exe
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto FInal de progra\SolucionGestorDePagos\FrontEnd\bin\Debug\FrontEnd.pdb
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto FInal de progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.exe
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto FInal de progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto FInal de progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.Pagosfrm.resources
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto FInal de progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.Estudiantesfrn.resources
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto FInal de progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.Estudiantesfrm.resources
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\FrontEnd\bin\Debug\FrontEnd.exe.config
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\FrontEnd\bin\Debug\FrontEnd.exe
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\FrontEnd\bin\Debug\FrontEnd.pdb
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.csproj.AssemblyReference.cache
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.Estudiantesfrm.resources
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.Estudiantesfrn.resources
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.GestorDePagosfrm.resources
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.Pagosfrm.resources
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.Properties.Resources.resources
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.csproj.GenerateResource.cache
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.exe
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\FrontEnd\bin\Debug\Backend2.dll
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\FrontEnd\bin\Debug\Backend2.pdb
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.csproj.CopyComplete
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.BuscarEstudiantefrm.resources
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.Docentesfrm.resources
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.AgregarDocentefrm.resources
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.BuscarDocentefrm.resources
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.Reportesfrm.resources
+C:\Users\Acer nitro 5\Desktop\Programas Programacion II\Proyecto fianal progra\SolucionGestorDePagos\FrontEnd\obj\Debug\FrontEnd.Loginfrm.resources
